@@ -5,8 +5,8 @@
 // @author       Alin Stefan Olaru
 // @website      https://alinstefanola.ru
 // @include      *.the-west.*/game.php*
-// @downloadURL  https://alinstefanola.ru/userscripts/magic.user.js
-// @updateURL    https://alinstefanola.ru/userscripts/magic.user.js
+// @downloadURL  https://the-west-scripts.github.io/Magic-Bundle/script.user.js
+// @updateURL    https://the-west-scripts.github.io/Magic-Bundle/script.user.js
 // @grant        none
 // ==/UserScript==
 
