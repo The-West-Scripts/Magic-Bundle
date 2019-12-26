@@ -11,4 +11,4 @@ It's been like two years since I have released the original "Magic Bundle". The 
 
 ## Install URL
 
-https://the-west-scripts.github.io/Magic-Bundle/script.user.js
+[Click here to install](https://the-west-scripts.github.io/Magic-Bundle/script.user.js)
