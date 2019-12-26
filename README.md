@@ -8,3 +8,7 @@ It's been like two years since I have released the original "Magic Bundle". The 
 * Job Window Improvements
 * Multiple Market Purchase (Disabled on German server)
 * Multicoloured Experience Bar
+
+## Install URL
+
+https://the-west-scripts.github.io/Magic-Bundle/script.user.js
